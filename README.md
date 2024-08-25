@@ -1,6 +1,7 @@
 # Alien Invasion
 
-<img width="1199" alt="Screenshot 2024-08-25 at 6 40 30 PM" src="https://github.com/user-attachments/assets/fff2d4a6-b14b-4f06-a45d-a79b6e6e0210">
+<img width="1199" alt="Screenshot 2024-08-25 at 7 12 32 PM" src="https://github.com/user-attachments/assets/4776c5a4-4205-41d4-acef-19746c2dbf8b">
+
 
 ## Table of Contents
 1. [Description](#description)
